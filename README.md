@@ -12,7 +12,6 @@ Implements forward dynamics on KUKA LBR iiwa14 manipulator
 
 ------
 ## Execution Instruction
-### Rotation Representation Conversion
 - git clone all the packages in ROS workspace
 - change to the catkin workspace directory and run:
 ```commandline
